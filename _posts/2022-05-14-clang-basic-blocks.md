@@ -9,7 +9,7 @@ It is an overview of the selected topic from this site.
 
 The first section is about SourceManager, SourceLocation, SourceManagerInternals.
 
-The second section is about FileManager, FileEntry. 
+The second section is about FileManager, FileEntry, DirectoryEntry.
 
 The goal of studing the previous two sections is to get used to creating buffers by yourself in clang. 
 It would be good to learn to create an in-memory buffer and initialize it with a string literal for testing purposes.
