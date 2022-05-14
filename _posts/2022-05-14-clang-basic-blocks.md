@@ -49,4 +49,3 @@ DiagnosticSema.h
 DiagnosticSemaKinds.td
 DiagnosticSerialization.h
 DiagnosticSerializationKinds.td
-DirectoryEntry.h
