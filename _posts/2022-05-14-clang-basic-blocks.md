@@ -1,6 +1,5 @@
 ---
-layout: post
-author: agevorgyan
+layout: default
 ---
 
 This post is about Clang's Basic/ directory classes. 
