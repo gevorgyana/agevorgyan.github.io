@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 ---
 
 This post is about Clang's Basic/ directory classes. 
