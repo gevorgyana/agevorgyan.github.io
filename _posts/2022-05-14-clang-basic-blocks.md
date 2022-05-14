@@ -1,6 +1,5 @@
 ---
-layout: null
-permalink: clang-basic-functionality
+layout: default
 ---
 
 This post is about Clang's Basic/ directory classes. 
